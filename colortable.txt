@@ -1,0 +1,23 @@
+0,0,0,0     //0 unlabeled
+100,0,0,1   //1 person
+100,80,0,2   //2 rider
+0,0,100,3   //3 car
+255,0,0,4   //4 checked 1 person
+128,0,0,5   //5 checked 2+ person
+255,128,0,6   //6 checked rider
+0,0,255,7   //7 checked car
+0,128,0,8   //8 trunk
+0,255,0,9   //9 plants
+255,0,255,10   //a board1 (standing)
+255,0,192,11   //b board2 (suspend)
+255,0,128,12  //c board3
+192,0,255,13   //d pole
+128,0,255,14   //e trashcan
+0,255,255,15   //f building
+252,105,2,16   //g cone/stone
+128,128,0,17   //h fence
+128,192,128,18   //i unknown
+255,128,255,19  //j merged objects
+0,128,255,20  //k splited objects
+240,240,0,21  // bike
+117,149,208,22  // ground
